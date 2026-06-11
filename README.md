@@ -4,7 +4,6 @@
 
 ---
 
-```markdown
 # 👻 Ghost Python
 
 **High-performance · Ultra-minimal · Fully portable · Python 3.14 for Windows**
