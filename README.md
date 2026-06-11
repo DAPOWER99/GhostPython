@@ -87,13 +87,18 @@ All commands support optional paths/arguments and integrate seamlessly with Pyth
 
 ### `settings.config` — Toggle core modules on/off
 Ghost Python uses a lightweight `settings.config` file in the root folder to enable/disable major components at runtime.
-
+# feature of these can be disabled by changing the value to anything other than "enabled"
 ```ini
 [Features]
-include_Lib = yes        # Python standard library
-include_DLLs = yes       # Python3.dll, etc.
-include_tcl = yes        # Tcl/Tk runtime (tkinter)
-include_tools = no       # Scripts like 2to3.exe
+Lib=enabled "libs important"
+
+DLLs=enabled "Dlls"
+
+tcl=enabled "Tcl folder"
+
+Title=enabled "credits non important""
+
+
 ```
 
 Disabling `include_tcl` removes tkinter entirely – useful for headless or server‑side deployments.
