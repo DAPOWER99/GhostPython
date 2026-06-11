@@ -169,13 +169,13 @@ Focus areas:
 - Adding `settings.config` toggles for more sub‑libraries  
 - Supporting Windows on ARM (WoA)
 
+
 ---
 
 ## Acknowledgments
 
-Built with respect for the Python Software Foundation, the Tcl/Tk community, and every developer who has ever debugged `tk.tcl` at 2 AM.
+Built with respect for the Python Software Foundation, the Tcl/Tk community, and every depressed developer who has ever debugged `tk.tcl` at 2 AM.
 
 **Ghost Python – leave no trace, solve real problems.**
-```
 
 ---
