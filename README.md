@@ -8,7 +8,7 @@
 
 **High-performance · Ultra-minimal · Fully portable · Python 3.14 for Windows**
 
-**Download windows App**([![Download App](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)](https://github.com/DaPower99/GhostPython/releases)
+**Download windows App**([![Download App](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/DaPower99/GhostPython/releases)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
