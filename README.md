@@ -9,8 +9,11 @@
 **High-performance · Ultra-minimal · Fully portable · Python 3.14 for Windows**
 [![Download App]([![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 ](https://github.com/DaPower99/GhostPython/releases)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Python 3.14](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/)
+
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20WinPE%20%7C%20USB-blue)](https://github.com/DAPOWER99)
 
 Ghost Python is a surgically clean, zero‑footprint Python 3.14 distribution that runs entirely from a single folder.  
